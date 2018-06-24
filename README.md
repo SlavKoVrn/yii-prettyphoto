@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run:
 
 ```bash
-composer require slavkovrn/yii-prettyphoto
+composer require slavkovrn/yii-prettyphoto:dev-master
 ```
 
 or add
 
 ```bash
-"slavkovrn/yii-prettyphoto": "*"
+"slavkovrn/yii-prettyphoto": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
