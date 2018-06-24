@@ -1,4 +1,4 @@
-# PrettyPhoto image galary widget for Yii Framework
+# PrettyPhoto image galary widget for Yii 1 Framework
 
 The extension uses jQuery PrettyPhoto and makes image galary from php array of structure defined.
 
