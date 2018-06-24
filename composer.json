@@ -1,0 +1,23 @@
+{
+    "name": "slavkovrn/yii-prettyphoto",
+    "description": "Yii prettyPhoto image galary widget uses Lightbox view control jquery.prettyphoto.js",
+    "type": "yii-extension",
+    "keywords": ["yii", "yii 1", "Image galary widget", "jQuery Lightbox images view control"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Viacheslav Kolesnikov",
+            "email": "slavko.chita@gmail.com",
+            "homepage": "http://yii2.kadastrcard.ru"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/SlavKoVrn/yii-prettyphoto/issues?state=open",
+        "source": "https://github.com/SlavKoVrn/yii-prettyphoto"
+    },
+    "autoload": {
+        "psr-4": {
+            "slavkovrn\\prettyphoto\\": ""
+        }
+    }
+}
