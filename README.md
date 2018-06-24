@@ -30,7 +30,7 @@ Usage
 Set link to extension in your view:
 
 ```php
-<? $this->widget(slavkovrn\prettyphoto\PrettyPhotoWidget::class,[
+<?php $this->widget(slavkovrn\prettyphoto\PrettyPhotoWidget::class,[
     'id'     =>'prettyPhoto',   // id of plugin should be unique at page
     'images' => [               // images at popup window of prettyPhoto galary
         1 => [
